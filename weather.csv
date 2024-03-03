@@ -1,0 +1,8 @@
+City,Date,Temperature_C,Pressure_hPa,Humidity,Weather
+New York,2022-01-01,5,1015,70,Clear
+New York,2022-01-02,8,1012,65,Partly Cloudy
+New York,2022-01-03,3,1020,75,Rain
+Los Angeles,2022-01-01,20,1010,60,Sunny
+Los Angeles,2022-01-02,22,1012,55,Clear
+Los Angeles,2022-01-03,18,1005,65,Foggy
+
